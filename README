@@ -1,0 +1,5 @@
+VTWhite API
+
+This class provides methods for interacting with VTWhite's Provisioning and 911 APIs.
+
+See example.php for usage.
