@@ -5,9 +5,9 @@
  * Package description
  *
  * @package     VTWhiteAPI
- * @author      Joshua Priddle <jpriddle@nevercraft.net>
+ * @author      Joshua Priddle <itspriddle@nevercraft.net>
  * @copyright   Copyright (c) 2009, ViaTalk, LLC
- * @link        http://github.com/jpriddle/vtwhite-api
+ * @link        http://github.com/itspriddle/vtwhite-api
  * @version      1.0
  * @filesource
  */
@@ -20,7 +20,7 @@
  * This is the core class used to interface with VTWhite's API
  *
  * @package     VTWhiteAPI
- * @author      Joshua Priddle <jpriddle@nevercraft.net>
+ * @author      Joshua Priddle <itspriddle@nevercraft.net>
  */
 
 
