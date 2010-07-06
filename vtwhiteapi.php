@@ -7,8 +7,8 @@
  * @package     VTWhiteAPI
  * @author      Joshua Priddle <itspriddle@nevercraft.net>
  * @copyright   Copyright (c) 2009, ViaTalk, LLC
- * @link        http://github.com/itspriddle/vtwhite-api
- * @version      1.0
+ * @link        http://github.com/viatalk/vtwhite-api
+ * @version     1.0
  * @filesource
  */
 
